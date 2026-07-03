@@ -1,0 +1,57 @@
+#border{
+    border-radius: 100px;
+}
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hU_vwol8px7uDCuufiB_funAuubuwW7AikypH2JuBQ&s=10");
+    background-size: contain;
+    margin : 0px auto 0px auto;
+    width: 500px;
+    height: 250px;
+}
+#text{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: oblique;
+   color: rgb(240, 171, 171);
+}
+.heroine{
+    display: flex;
+    margin: 0px auto 0px auto;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(178, 241, 178);
+    width: 500px;
+    
+}
+#tour{
+    border: 3px solid rgb(71, 136, 71);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 20px auto 0px auto;
+
+}
+.comedian{
+    width: 500px;
+    height: 200px;
+    background: rgb(203, 228, 219);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    margin : 0px auto 0px auto;
+    justify-content: space-around;
+
+}
+#img{
+    width: 150px;
+    height: 170px;
+    border-bottom: 4px solid rgb(126, 227, 146);
+}
+.div{
+    margin: auto 0px auto 0px;
+}
